@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **cjlamprecht/cjlamprecht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+Quotes
+🌈 "I've learned that the truth is the source of all true power: those who live by it are the strongest of all!"
+We’re not crying, you are. - Call of Duty
